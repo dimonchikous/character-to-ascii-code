@@ -1,5 +1,5 @@
 # character-to-ascii-code
-Character to ascii code(num) is simple program on c++. This program converting your character to a number of ascii code/
+Character to ascii code(num) is a simple program on c++. This program converting your character to a number of ascii code
 
 How to install and launch:
 
