@@ -5,7 +5,7 @@ Character to ascii code(num) is a simple program on c++. This program converting
 
 1.git clone https://github.com/dimonchikous/character-to-ascii-code.git
 
-2.cd to program
+2.cd to program directory
 
 3../program.out
 
