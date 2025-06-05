@@ -17,4 +17,4 @@ Program takes only first symbol
 
 If you entered space, program will bugged. Press **ctrl+C** for exit
 
-The file "program.out" compiled only for x86_64 architecture, you can recompile "main.cpp" for your architecture 
+The file **"program.out"** compiled only for **x86_64** architecture, you can **recompile "main.cpp"** for your architecture 
